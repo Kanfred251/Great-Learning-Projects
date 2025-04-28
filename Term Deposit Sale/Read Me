@@ -1,0 +1,4 @@
+This goal of this project is to identify the marketing strategies that should be taken to get more term deposit sales to a customer base.
+After data analysis and cleanup, Ensemble models of baggin and boosting as well as regression models are fit to the dataset to predict customers that are expected to take a loan.
+From this, insights are drawn as to the profile of customer that took a loan and the sales tactics that were used to facilitate that conversion.
+Testing methods and confusion matrices are used to then evaluate how the model can be improved within the context of the sales teams goals.
