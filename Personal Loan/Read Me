@@ -1,3 +1,6 @@
 Focus of this project is to improve conversion rate for customers who are marketed the option of taking a personal loan from the bank.
 After appropriate data cleaning and statistical analysis, both linear and logistic regression models were utilized to predict which customers will take a loan and their performance evaluated using validation methodologies. 
 Finally, recommendations were made to the banks marketing department on how to improve their conversion rate.
+
+The dataset analyzed is contained in the .csv
+The analysis was completed in jupiter notebook and the file saved as a .ipynb
