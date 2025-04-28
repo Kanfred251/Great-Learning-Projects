@@ -1,0 +1,3 @@
+This project was focused on segmenting customers for more personalizzed marketing campaigns and improved market penetration
+Heirarchal and K-means clustering methods were used and then their silhouette scores were compared to choose which methodology worked
+The customer clusters were then analyzed so that recommendations could be made to the operations steam to improve service delivery models as well as the marketing team to aid in their initiative to personalize ad campaigns.
