@@ -1,0 +1,5 @@
+The purpose of this project is to explore neural network models. The models were used to predict whether a customer would leave within the next 6 months.
+
+Problem Statement: Bank_Churn_Modelling
+Dataset: bank
+Solution: Bank_Churn (1)-2.ipynb
